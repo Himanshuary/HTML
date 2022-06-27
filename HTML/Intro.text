@@ -4,3 +4,23 @@ What is HTML?
     It is describes the structure of web page.
     It contains series of elements.
     The elements tells the browser now to display the content.
+
+Drifferent type of elements -->
+
+    1. <p>: The Paragraph element -->  
+    
+    The <p> HTML element represents a paragraph. Paragraphs are usually represented in visual media as blocks 
+    of text separated from adjacent blocks by blank lines and/or first-line indentation, but HTML paragraphs 
+    can be any structural grouping of related content, such as images or form fields.
+
+    2. List -->
+
+    ul(unorder List) -->The <ul> HTML element represents an unordered list of items, typically rendered as a bulleted list.
+    <ul>
+    <li>abc</li>
+    </ul>
+
+    ol(order list) --> The <ol> HTML element represents an ordered list of items — typically rendered as a numbered list.
+    <ol></ol>
+
+
