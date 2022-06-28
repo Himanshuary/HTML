@@ -15,12 +15,54 @@ Drifferent type of elements -->
 
     2. List -->
 
-    ul(unorder List) -->The <ul> HTML element represents an unordered list of items, typically rendered as a bulleted list.
+    ul(unorder List) -->The <ul> 
+    
+    HTML element represents an unordered list of items, typically rendered as a bulleted list.
     <ul>
     <li>abc</li>
     </ul>
 
-    ol(order list) --> The <ol> HTML element represents an ordered list of items — typically rendered as a numbered list.
+    ol(order list) --> 
+    
+    The <ol> HTML element represents an ordered list of items — typically rendered as a numbered list.
     <ol></ol>
 
+    3. <a>: The Anchor element -->
 
+    The <a> HTML element (or anchor element), with its href attribute, creates a hyperlink to web pages, files, 
+    email addresses, locations in the same page, or anything else a URL can address.
+    In short Anchor element created a hyperlink.
+    e.g. <a href="chicken.html">chicken intro</a>
+
+    4.<img>: The Image Embed element -->
+
+    The <img> HTML element embeds an image into the document.
+    <img src="img/Male_and_female_chicken_sitting_together.jpg">
+
+    5. <div>: The Content Division element -->
+
+    The <div> HTML element is the generic container for flow content. It has no effect on the content or layout
+    until styled in some way using CSS (e.g. styling is directly applied to it, or some kind of layout model like
+    Flexbox is applied to its parent element).
+
+    6. <samp>: The Sample Output element -->
+
+    The <samp> HTML element is used to enclose inline text which represents sample (or quoted) output from a 
+    computer program. Its contents are typically rendered using the browser's default monospaced font 
+    (such as Courier or Lucida Console).
+
+    7. <hr>: The Thematic Break (Horizontal Rule) element -->
+
+    The <hr> HTML element represents a thematic break between paragraph-level elements: for example, 
+    a change of scene in a story, or a shift of topic within a section.
+
+    8. <br>: The Line Break element -->
+
+    The <br> HTML element produces a line break in text (carriage-return). It is useful for writing a poem or an 
+    address, where the division of lines is significant.
+
+    9. <sup>: The Superscript element -->
+
+    The <sup> HTML element specifies inline text which is to be displayed as superscript for solely typographical 
+    reasons. Superscripts are usually rendered with a raised baseline using smaller text.
+    
