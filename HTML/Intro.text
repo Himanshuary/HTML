@@ -66,3 +66,53 @@ Drifferent type of elements -->
     The <sup> HTML element specifies inline text which is to be displayed as superscript for solely typographical 
     reasons. Superscripts are usually rendered with a raised baseline using smaller text.
     
+    10. <sub>: The Subscript element -->
+
+    The <sub> HTML element specifies inline text which should be displayed as subscript for solely typographical 
+    reasons. Subscripts are typically rendered with a lowered baseline using smaller text.
+
+    Semantic Element
+
+    11. <main> -->
+
+    The <main> HTML element represents the dominant content of the <body> of a document. The main content area  
+    consists of content that is directly related to or expands upon the central topic of a document, or the 
+    central functionality of an application.
+
+    12. <nav>: The Navigation Section element -->
+
+    The <nav> HTML element represents a section of a page whose purpose is to provide navigation links, 
+    either within the current document or to other documents. Common examples of navigation sections are menus, 
+    tables of contents, and indexes.
+
+    13. <section>: The Generic Section element -->
+
+    The <section> HTML element represents a generic standalone section of a document, which doesn't have a more 
+    specific semantic element to represent it. Sections should always have a heading, with very few exceptions.
+
+HTML Table -->
+
+Table are structure sets of data, made up of raws and colunms. They can be a great way of displaying data clearly.
+
+1. <td>: The Table Data Cell element -->
+
+The <td> HTML element defines a cell of a table that contains data. It participates in the table model.
+
+2. <tr>: The Table Row element -->
+
+The <tr> HTML element defines a row of cells in a table. The row's cells can then be established using a mix of 
+<td> (data cell) and <th> (header cell) elements.
+
+3. <th>: The Table Header element -->
+
+The <th> HTML element defines a cell as header of a group of table cells. The exact nature of this group is 
+defined by the scope and headers attributes.
+
+4. <thead>: The Table Head element -->
+
+The <thead> HTML element defines a set of rows defining the head of the columns of the table.
+
+5.<tbody>: The Table Body element -->
+
+The <tbody> HTML element encapsulates a set of table rows (<tr> elements), indicating that they comprise the body 
+of the table (<table>).
